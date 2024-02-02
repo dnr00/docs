@@ -1,9 +1,9 @@
-# Celestia Documentation Site
+# 셀레스티아 문서 사이트
 
-Welcome to the official documentation repository for Celestia.
+셀레스티아의 공식 문서 저장소에 오신 것을 환영합니다.
 
-Here you'll find comprehensive guides, tutorials, and reference materials
-to help you make the most out of Celestia.
+여기에서 Celestia를 최대한 활용하는 데 도움이 되는 포괄적인 가이드,
+튜토리얼 및 참고 자료를 찾을 수 있습니다.
 
 ## Building the site
 
